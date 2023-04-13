@@ -9,3 +9,4 @@
 | Raúl Ladrón de Guevara García | [github.com/rladgar](https://github.com/rladgar) |
 | Alvaro Chamorro Gomez	     | [github.com/BigChamo](https://github.com/BigChamo)      |
 | Francisco Gracia Sanchez   | [fgrasan342](https://github.com/fgrasan342)             |
+| Francisco Jesus Jimenez Franco | [github.com/fjimfra123](https://github.com/fjimfra123) |
